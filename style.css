@@ -81,6 +81,10 @@ html, body {
     text-decoration: none;
     text-transform: uppercase;
   }
+
+.btn-main:hover {
+    background-color: white;   
+}
   
   .btn-default {
     font-family: 'Raleway', sans-serif;
